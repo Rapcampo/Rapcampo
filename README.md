@@ -1,6 +1,12 @@
-# About me
-Hello, I'm Raphael
+## About me
+Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info about me:
 
+- 🖥️ Currently studying software development in 42 Porto
+- 📚 Graduate in Languages and business and post-graduate in International Business 
+- 🗣️ Passionate about learning languages: I speak 🇬🇧 🇯🇵 🇵🇹 
+- 👨‍💻 Area of interest in technology: Computer Vision, Cybersecurity and Networking 
+- 🛠️ Current project: Push_swap, a sorting algorythmn specialized in minimising stack swapping 
+- 📋 Planned side projects: Text editor, Conway's game of life, Nand to tetris 
 
 ## Skills
 <p align="center">
@@ -17,26 +23,14 @@ Hello, I'm Raphael
 
 ## Stats
 <div align="center">
-      <img src="https://streak-stats.demolab.com?user=Rapcampo&theme=Burnt-neon&exclude_days=Sat,Sun"/>
+	<a>
+		<img src="https://streak-stats.demolab.com?user=Rapcampo&theme=Burnt-neon&exclude_days=Sat,Sun"/>
+	</a>
 </div>
 
 <div align=center>
 	<a>
-	  <img src="https://komarev.com/ghpvc/?username=Rapcampo&style=for-the-badge&color=blue"></a>
+	  <img src="https://komarev.com/ghpvc/?username=Rapcampo&style=for-the-badge&color=blue">
 	</a>
 </div>
 
-<!--
-**Rapcampo/Rapcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
