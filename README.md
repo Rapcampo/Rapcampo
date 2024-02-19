@@ -31,7 +31,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 
 <div align="center">
 	<a>
-	  <img src="https://komarev.com/ghpvc/?username=Rapcampo&style=for-the-badge&color=blue"/>
+	  <img src="https://komarev.com/ghpvc/?username=Rapcampo&style=flat&color=blueviolet&abbreviated=true"/>
 	</a>
 </div>
 
