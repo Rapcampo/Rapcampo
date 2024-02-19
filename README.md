@@ -24,8 +24,8 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 ## 📊 Stats
 <div align="center">
 	<a>
-		<img src="https://github-readme-stats.vercel.app/api?username=Rapcampo&theme=radical&show_icons=true&include_all_commits=trye&count_private=true"/>
-		<img src="https://streak-stats.demolab.com?user=Rapcampo&theme=radical&exclude_days=Sat,Sun"/>
+		<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rapcampo&theme=radical&show_icons=true&include_all_commits=trye&count_private=true"/>
+		<img height="180px" src="https://streak-stats.demolab.com?user=Rapcampo&theme=radical&exclude_days=Sat,Sun"/>
 	</a>
 </div>
 
