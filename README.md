@@ -5,8 +5,8 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 - 📚 Graduate in Languages and business and post-graduate in International Business 
 - 🗣️ Passionate about learning languages: I speak 🇬🇧 🇯🇵 🇵🇹 
 - 🎯 Area of interest in technology: Computer Vision, IoT, Cybersecurity and Networking 
-- 🛠️ Current project: Push_swap, a sorting algorythmn specialized in minimising stack swapping 
-- 📋 Planned side projects: Text editor in C, Hangman game in Lua, Conway's game of life in C, Nand to tetris 
+- 🛠️ Current project: CPP modules, Pratice in OOP programming in c++98.
+- 📋 Planned side projects: Text editor in C, Hangman game in Lua, Conway's game of life in C
 
 ## ✍️ Skills
 <p align="center">
