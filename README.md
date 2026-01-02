@@ -6,7 +6,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 - 🗣️ Passionate about learning languages: I speak 🇬🇧 🇯🇵 🇵🇹 
 - 🎯 Area of interest in technology: Computer Graphics, Cybersecurity, DevOps, OOP 
 - 🛠️ Current project: Inception, learning to use docker to build services in a VM.
-- 📋 Planned side projects: Text editor in C, Hangman game in Lua, Conway's game of life in C
+- 📋 Planned side projects: Hangman game in Lua, Conway's game of life in C
 
 ## ✍️ Skills
 <p align="center">
