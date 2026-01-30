@@ -11,7 +11,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 ## ✍️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,lua,git,github,bash,linux,neovim,markdown,wordpress">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,github,bash,linux,neovim,markdown,wordpress,docker,clion,webstorm">
   </a>
 </p>
 
@@ -19,10 +19,3 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 <p align="center">
   <a href ="https://www.linkedin.com/in/raphael-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-
-## 📊 Stats
-<div align="center">
-	<a>
-		<img height="180px" width="380px" src="https://github-readme-stats.vercel.app/api?username=Rapcampo&theme=radical&show_icons=true&include_all_commits=trye&count_private=true"/>
-	</a>
-</div>
