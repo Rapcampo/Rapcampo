@@ -5,8 +5,8 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 - 📚 Graduate in Languages and business and post-graduate in International Business 
 - 🗣️ Passionate about learning languages: I speak 🇬🇧 🇯🇵 🇵🇹 
 - 🎯 Area of interest in technology: Computer Graphics, Cybersecurity, DevOps, OOP 
-- 🛠️ Current project: Inception, learning to use docker to build services in a VM.
-- 📋 Planned side projects: Conway's game of life in C (Currently building in SDL).
+- 🛠️ Current project: Transcendence, implementing a marketplace platform from the ground up.
+- 📋 Planned side projects: 2048, Cub3D with hardware acceleration in SDL, Space Invaders.
 
 ## ✍️ Skills
 <p align="center">
@@ -19,7 +19,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 <p align="center">
   <a href ="https://www.linkedin.com/in/raphael-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-<hl>
+<hr>
 <div align="center">
   <img src="./assets/life.webp" alt="game of life" 
 </div>
