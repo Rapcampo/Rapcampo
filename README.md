@@ -19,3 +19,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 <p align="center">
   <a href ="https://www.linkedin.com/in/raphael-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+<hl>
+<div>
+  <img src=".assets/life.webp" alt="game of life" 
+</div>
