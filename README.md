@@ -8,6 +8,16 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 - 🛠️ Current project: Transcendence, implementing a marketplace platform from the ground up.
 - 📋 Planned side projects: 2048, Cub3D with hardware acceleration in SDL, Space Invaders.
 
+## Recent Projects
+
+| Name | Description | Tech used |
+| --- | --- | --- |
+| [game of life](https://github.com/rapcampo/SDL_Game_of_Life) | Implemented Conway's Game of Life with SDL, shaders and randomness | C, SDL, CLion, Valgrind |
+| [Inception](https://github.com/rapcampo/42_inception) | Single command self deploying lemp stack infrastructure make with Docker | Docker, Makefile, Yaml, Docker Compose |
+| [ft_IRC](https://github.com/rapcampo/42_ft_irc) | IRC server implemented in C++ compatible with popular IRC clients | C++, C, NetCat, Sockets, Networking |
+| [Cub3D](https://github.com/rapcampo/42_cub3D) | Wolfenstein 3D inspired raycaster engine with collision detection and real time minimap using X11 | C, X11, Valgrind |
+| [Minishell](https://github.com/rapcampo/42_minishell) | A Bash-like shell with redirections, pipes and builtins | C, Git, Valgrind, Fsanitize |
+
 ## ✍️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
