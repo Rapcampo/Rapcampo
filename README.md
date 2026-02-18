@@ -8,7 +8,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 - 🛠️ Current project: Transcendence, implementing a marketplace platform from the ground up.
 - 📋 Planned side projects: 2048, Cub3D with hardware acceleration in SDL, Space Invaders.
 
-## Recent Projects
+## 📦 Recent Projects
 
 | Name | Description | Tech used |
 | --- | --- | --- |
