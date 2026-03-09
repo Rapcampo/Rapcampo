@@ -12,6 +12,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 
 | Name | Description | Tech used |
 | --- | --- | --- |
+| [Transcendence](https://github.com/rapcampo/42_transcendence) | Implementing a Marketplace application for graphical assets with Layered architecture | Django, Vite, React, Mysql, FastApi |
 | [Game of Life](https://github.com/rapcampo/SDL_Game_of_Life) | Implemented Conway's Game of Life with SDL, shaders and randomness | C, SDL, CLion, Valgrind |
 | [Inception](https://github.com/rapcampo/42_inception) | Single command self deploying lemp stack infrastructure make with Docker | Docker, Makefile, Yaml, Docker Compose |
 | [ft_IRC](https://github.com/rapcampo/42_ft_irc) | IRC server implemented in C++ compatible with popular IRC clients | C++, C, NetCat, Sockets, Networking |
@@ -21,7 +22,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 ## ✍️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,github,bash,linux,neovim,markdown,wordpress,docker,clion,webstorm">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,github,bash,linux,neovim,markdown,wordpress,docker,clion,webstorm,django">
   </a>
 </p>
 
