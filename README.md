@@ -22,7 +22,7 @@ Hello, I'm Raphael from Brazil, currently Living in Portugal! Here are some info
 ## ✍️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,github,bash,linux,neovim,markdown,wordpress,docker,clion,webstorm,django">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,github,bash,linux,neovim,markdown,wordpress,docker,clion,webstorm,django,notion,obsidian">
   </a>
 </p>
 
